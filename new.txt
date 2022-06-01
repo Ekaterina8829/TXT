@@ -1,0 +1,5 @@
+Kotina
+Ekaterina
+34
+pet=1
+salary=2500
